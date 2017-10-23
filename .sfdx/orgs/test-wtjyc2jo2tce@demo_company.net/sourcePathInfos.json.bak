@@ -32,14 +32,14 @@
     [
         "C:\\Users\\sbayer\\Google Drive\\Training\\Trailhead\\Salesforce DX\\geolocation\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\sbayer\\Google Drive\\Training\\Trailhead\\Salesforce DX\\geolocation\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1508783796423,
             "changeTime": 1508783796423,
-            "contentHash": "0d7312666f7b358c4f333f091f45816d28936bf2"
+            "contentHash": "0d7312666f7b358c4f333f091f45816d28936bf2",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -48,9 +48,9 @@
             "sourcePath": "C:\\Users\\sbayer\\Google Drive\\Training\\Trailhead\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1508782919864,
-            "changeTime": 1508782919864,
-            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86",
+            "modifiedTime": 1508784376132,
+            "changeTime": 1508784376132,
+            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -296,10 +296,10 @@
         {
             "sourcePath": "C:\\Users\\sbayer\\Google Drive\\Training\\Trailhead\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
             "isDirectory": false,
-            "size": 182,
-            "modifiedTime": 1508783249380,
-            "changeTime": 1508783249380,
-            "contentHash": "f0aad58c6510048b7f88251e480b43431d0b9784",
+            "size": 206,
+            "modifiedTime": 1508784027724,
+            "changeTime": 1508784027724,
+            "contentHash": "db049c83f47e1c6fc0c9e4dc7a2b5c77a275bfa1",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -463,14 +463,14 @@
     [
         "C:\\Users\\sbayer\\Google Drive\\Training\\Trailhead\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\sbayer\\Google Drive\\Training\\Trailhead\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
             "isDirectory": false,
-            "size": 342,
-            "modifiedTime": 1508782928609,
-            "changeTime": 1508782928609,
-            "contentHash": "86a186b5a8b9068c6299caa05cf1227d8b06b391",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 551,
+            "modifiedTime": 1508784600205,
+            "changeTime": 1508784600205,
+            "contentHash": "9464d8e5ac6d751f82a486ed4da38b69c9f3c690"
         }
     ],
     [
@@ -504,10 +504,10 @@
         {
             "sourcePath": "C:\\Users\\sbayer\\Google Drive\\Training\\Trailhead\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
             "isDirectory": false,
-            "size": 255,
-            "modifiedTime": 1508782958823,
-            "changeTime": 1508782958823,
-            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef",
+            "size": 395,
+            "modifiedTime": 1508784479925,
+            "changeTime": 1508784479925,
+            "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -619,196 +619,326 @@
     [
         "C:\\Users\\sbayer\\Google Drive\\Training\\Trailhead\\Salesforce DX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet.resource-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\sbayer\\Google Drive\\Training\\Trailhead\\Salesforce DX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet.resource-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 222,
             "modifiedTime": 1508783796429,
             "changeTime": 1508783796429,
-            "contentHash": "2a135e336ba8b6bc150d4e94f6abb174d496a0f4"
+            "contentHash": "2a135e336ba8b6bc150d4e94f6abb174d496a0f4",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:/Users/sbayer/Google Drive/Training/Trailhead/Salesforce DX/geolocation/force-app/main/default/staticresources/leaflet",
         {
-            "state": "u",
             "sourcePath": "C:/Users/sbayer/Google Drive/Training/Trailhead/Salesforce DX/geolocation/force-app/main/default/staticresources/leaflet",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1508783796637,
             "changeTime": 1508783796637,
-            "contentHash": "ef86d3d12efa4e132890afd141d18f3050a16029"
+            "contentHash": "ef86d3d12efa4e132890afd141d18f3050a16029",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:/Users/sbayer/Google Drive/Training/Trailhead/Salesforce DX/geolocation/force-app/main/default/staticresources/leaflet/images",
         {
-            "state": "u",
             "sourcePath": "C:/Users/sbayer/Google Drive/Training/Trailhead/Salesforce DX/geolocation/force-app/main/default/staticresources/leaflet/images",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1508783796461,
             "changeTime": 1508783796461,
-            "contentHash": "504aa9d4037501ec4d0edf632f7af41532b43659"
+            "contentHash": "504aa9d4037501ec4d0edf632f7af41532b43659",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:/Users/sbayer/Google Drive/Training/Trailhead/Salesforce DX/geolocation/force-app/main/default/staticresources/leaflet/images/layers-2x.png",
         {
-            "state": "u",
             "sourcePath": "C:/Users/sbayer/Google Drive/Training/Trailhead/Salesforce DX/geolocation/force-app/main/default/staticresources/leaflet/images/layers-2x.png",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1259,
             "modifiedTime": 1508783796444,
             "changeTime": 1508783796444,
-            "contentHash": "152a162333e46d24f9d89f566312fc0c64011dee"
+            "contentHash": "152a162333e46d24f9d89f566312fc0c64011dee",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:/Users/sbayer/Google Drive/Training/Trailhead/Salesforce DX/geolocation/force-app/main/default/staticresources/leaflet/images/layers.png",
         {
-            "state": "u",
             "sourcePath": "C:/Users/sbayer/Google Drive/Training/Trailhead/Salesforce DX/geolocation/force-app/main/default/staticresources/leaflet/images/layers.png",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 696,
             "modifiedTime": 1508783796448,
             "changeTime": 1508783796448,
-            "contentHash": "c9e7528e491a39232ba24a2706c6c739d6fb0f06"
+            "contentHash": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:/Users/sbayer/Google Drive/Training/Trailhead/Salesforce DX/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon-2x.png",
         {
-            "state": "u",
             "sourcePath": "C:/Users/sbayer/Google Drive/Training/Trailhead/Salesforce DX/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon-2x.png",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 2586,
             "modifiedTime": 1508783796453,
             "changeTime": 1508783796453,
-            "contentHash": "95a44b9ca71fe03fdf65ddd8eea12f1910f38de2"
+            "contentHash": "95a44b9ca71fe03fdf65ddd8eea12f1910f38de2",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:/Users/sbayer/Google Drive/Training/Trailhead/Salesforce DX/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon.png",
         {
-            "state": "u",
             "sourcePath": "C:/Users/sbayer/Google Drive/Training/Trailhead/Salesforce DX/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon.png",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1466,
             "modifiedTime": 1508783796461,
             "changeTime": 1508783796461,
-            "contentHash": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da"
+            "contentHash": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:/Users/sbayer/Google Drive/Training/Trailhead/Salesforce DX/geolocation/force-app/main/default/staticresources/leaflet/images/marker-shadow.png",
         {
-            "state": "u",
             "sourcePath": "C:/Users/sbayer/Google Drive/Training/Trailhead/Salesforce DX/geolocation/force-app/main/default/staticresources/leaflet/images/marker-shadow.png",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 618,
             "modifiedTime": 1508783796463,
             "changeTime": 1508783796463,
-            "contentHash": "7b6a8df63930381e96604e705168d0527d6b82bc"
+            "contentHash": "7b6a8df63930381e96604e705168d0527d6b82bc",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:/Users/sbayer/Google Drive/Training/Trailhead/Salesforce DX/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js",
         {
-            "state": "u",
             "sourcePath": "C:/Users/sbayer/Google Drive/Training/Trailhead/Salesforce DX/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 389832,
             "modifiedTime": 1508783796497,
             "changeTime": 1508783796497,
-            "contentHash": "19438b9a9d066e915e96db27259a5948c4f4f4e3"
+            "contentHash": "19438b9a9d066e915e96db27259a5948c4f4f4e3",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:/Users/sbayer/Google Drive/Training/Trailhead/Salesforce DX/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js.map",
         {
-            "state": "u",
             "sourcePath": "C:/Users/sbayer/Google Drive/Training/Trailhead/Salesforce DX/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js.map",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 741401,
             "modifiedTime": 1508783796560,
             "changeTime": 1508783796560,
-            "contentHash": "a93b2d29416cb0ec882ac28f41dcc4bd18e1cd99"
+            "contentHash": "a93b2d29416cb0ec882ac28f41dcc4bd18e1cd99",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:/Users/sbayer/Google Drive/Training/Trailhead/Salesforce DX/geolocation/force-app/main/default/staticresources/leaflet/leaflet.css",
         {
-            "state": "u",
             "sourcePath": "C:/Users/sbayer/Google Drive/Training/Trailhead/Salesforce DX/geolocation/force-app/main/default/staticresources/leaflet/leaflet.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 14061,
             "modifiedTime": 1508783796570,
             "changeTime": 1508783796570,
-            "contentHash": "d7015409fa5ce3f54a60c25562a7ebf858d90397"
+            "contentHash": "d7015409fa5ce3f54a60c25562a7ebf858d90397",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:/Users/sbayer/Google Drive/Training/Trailhead/Salesforce DX/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js",
         {
-            "state": "u",
             "sourcePath": "C:/Users/sbayer/Google Drive/Training/Trailhead/Salesforce DX/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 137208,
             "modifiedTime": 1508783796624,
             "changeTime": 1508783796624,
-            "contentHash": "87938b386fd7224a667332336c59b79e7fa0fde6"
+            "contentHash": "87938b386fd7224a667332336c59b79e7fa0fde6",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:/Users/sbayer/Google Drive/Training/Trailhead/Salesforce DX/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js.map",
         {
-            "state": "u",
             "sourcePath": "C:/Users/sbayer/Google Drive/Training/Trailhead/Salesforce DX/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js.map",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 186247,
             "modifiedTime": 1508783796645,
             "changeTime": 1508783796645,
-            "contentHash": "0e397274f80e9a86d4ad7a6534c23ba9e10b6448"
+            "contentHash": "0e397274f80e9a86d4ad7a6534c23ba9e10b6448",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\sbayer\\Google Drive\\Training\\Trailhead\\Salesforce DX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\sbayer\\Google Drive\\Training\\Trailhead\\Salesforce DX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1508783796637,
             "changeTime": 1508783796637,
-            "contentHash": "ef86d3d12efa4e132890afd141d18f3050a16029"
+            "contentHash": "ef86d3d12efa4e132890afd141d18f3050a16029",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\sbayer\\Google Drive\\Training\\Trailhead\\Salesforce DX\\geolocation\\force-app\\main\\default\\staticresources",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\sbayer\\Google Drive\\Training\\Trailhead\\Salesforce DX\\geolocation\\force-app\\main\\default\\staticresources",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1508783796442,
             "changeTime": 1508783796442,
-            "contentHash": "a3ad4d54448f22cbf71389bec794c76ffeb81f49"
+            "contentHash": "a3ad4d54448f22cbf71389bec794c76ffeb81f49",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sbayer\\Google Drive\\Training\\Trailhead\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
+        {
+            "sourcePath": "C:\\Users\\sbayer\\Google Drive\\Training\\Trailhead\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1508783946355,
+            "changeTime": 1508783946355,
+            "contentHash": "a5a66581a4cb3394b3727c3a6a9ae0440bec88e4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sbayer\\Google Drive\\Training\\Trailhead\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
+        {
+            "sourcePath": "C:\\Users\\sbayer\\Google Drive\\Training\\Trailhead\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
+            "isDirectory": false,
+            "size": 335,
+            "modifiedTime": 1508784492496,
+            "changeTime": 1508784492496,
+            "contentHash": "61d22960bc5ef4616a99fb8a5193908b7fe261f0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sbayer\\Google Drive\\Training\\Trailhead\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\sbayer\\Google Drive\\Training\\Trailhead\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 242,
+            "modifiedTime": 1508783946330,
+            "changeTime": 1508783946330,
+            "contentHash": "3a2d6938d275475fd4ed3800a5fe9151c0677f15",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sbayer\\Google Drive\\Training\\Trailhead\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
+        {
+            "sourcePath": "C:\\Users\\sbayer\\Google Drive\\Training\\Trailhead\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
+            "isDirectory": false,
+            "size": 42,
+            "modifiedTime": 1508783987725,
+            "changeTime": 1508783987725,
+            "contentHash": "b5c7a9773c9f99067d3777ecad9e5dd88e3b717c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sbayer\\Google Drive\\Training\\Trailhead\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
+        {
+            "sourcePath": "C:\\Users\\sbayer\\Google Drive\\Training\\Trailhead\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
+            "isDirectory": false,
+            "size": 833,
+            "modifiedTime": 1508784506132,
+            "changeTime": 1508784506132,
+            "contentHash": "66b62a139b9cca8204da084c582323079ab70ffe",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sbayer\\Google Drive\\Training\\Trailhead\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
+        {
+            "sourcePath": "C:\\Users\\sbayer\\Google Drive\\Training\\Trailhead\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1508783946347,
+            "changeTime": 1508783946347,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sbayer\\Google Drive\\Training\\Trailhead\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\sbayer\\Google Drive\\Training\\Trailhead\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1508783946361,
+            "changeTime": 1508783946361,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sbayer\\Google Drive\\Training\\Trailhead\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
+        {
+            "sourcePath": "C:\\Users\\sbayer\\Google Drive\\Training\\Trailhead\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1508784376140,
+            "changeTime": 1508784426028,
+            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sbayer\\Google Drive\\Training\\Trailhead\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
+        {
+            "sourcePath": "C:\\Users\\sbayer\\Google Drive\\Training\\Trailhead\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
+            "isDirectory": false,
+            "size": 100,
+            "modifiedTime": 1508784427967,
+            "changeTime": 1508784427967,
+            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sbayer\\Google Drive\\Training\\Trailhead\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\sbayer\\Google Drive\\Training\\Trailhead\\Salesforce DX\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
+            "isDirectory": false,
+            "size": 242,
+            "modifiedTime": 1508784376145,
+            "changeTime": 1508784376145,
+            "contentHash": "b69047ac083bd9c2a693a13cb3f5f7c31edcd663",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ]
 ]
